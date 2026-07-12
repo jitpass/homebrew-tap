@@ -1,10 +1,10 @@
 # jitpass Homebrew tap
 
-Homebrew tap for [**jitpass**](https://github.com/jitpass/jit) — the `jit` CLI, a
+Homebrew tap for [**jitpass**](https://github.com/jitpass/jit): the `jit` CLI, a
 local-first developer secret runtime.
 
 > ⚠️ This repo is **auto-generated**. The cask in `Casks/` is written and updated
-> by [goreleaser](https://goreleaser.com) on each `jit` release — do not edit it by hand.
+> by [goreleaser](https://goreleaser.com) on each `jit` release; do not edit it by hand.
 
 ## Install
 
