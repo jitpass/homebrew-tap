@@ -21,4 +21,4 @@ brew install --cask jitpass
 
 ## License
 
-The `jit` CLI is Apache-2.0. See the [main repository](https://github.com/jitpass/jit).
+The `jit` CLI is source-available under the [PolyForm Perimeter License 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0). See the [main repository](https://github.com/jitpass/jit).
