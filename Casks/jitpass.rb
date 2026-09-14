@@ -5,8 +5,7 @@ cask "jitpass" do
   on_macos do
     on_arm do
       sha256 "2d18cb8f9dc48268e68cf2e59f46ead7c640f1aeef9ec3be8e4c0db12878197e"
-      url "https://dl.jitpass.com/jitpass/jit/releases/download/v#{version}/jitpass_darwin_arm64.tar.gz",
-        verified: "dl.jitpass.com/"
+      url "https://dl.jitpass.com/jitpass/jit/releases/download/v#{version}/jitpass_darwin_arm64.tar.gz"
     end
   end
 
